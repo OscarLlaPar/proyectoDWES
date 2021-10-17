@@ -28,18 +28,19 @@ p{
 	font-size: 30px;
 	font-weight: bold;
 }
-.asig{
-	float: left;
-	width: 18%;
-	height: 100%;
-	/*display: inline;*/
-	position: relative;
-}
 .cont{
-	position: absolute;
-        width:100%;
-        top: 150px;
+    background-color: transparent;
+    margin-top: 175px;
 }
+
+.tema{
+    top: 15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 footer{
 	background-color: black;
         font-family: 'Times New Roman', Times, serif;
