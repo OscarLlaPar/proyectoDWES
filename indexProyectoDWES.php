@@ -28,7 +28,7 @@ and open the template in the editor.
                 <p><a href="../ProyectoTema3/indexProyectoTema3.php">Tema 3 — Características del Lenguaje PHP</a></p>
             </div>
             <div class="tema">
-                <p><a href="../ProyectoTema3/indexProyectoTema4.php">Tema 4 — Técnicas de Acceso a Datos en PHP</a></p>
+                <p><a href="../ProyectoTema4/indexProyectoTema4.php">Tema 4 — Técnicas de Acceso a Datos en PHP</a></p>
             </div>
             <div class="tema">
                 <p>Tema 5 — Desarrollo de Aplicaciones Web Utilizando Código Embebido</p>
