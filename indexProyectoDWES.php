@@ -19,10 +19,12 @@ and open the template in the editor.
         </div>
         <div class="cont">
             <div class="tema">
-                <p>Tema 1 — Desarrollo Web en Entorno Servidor</p>
+                <p><a href="doc/EjerciciosTema1.pdf" target="__blank">Tema 1 — Desarrollo Web en Entorno Servidor</a></p>
             </div>
             <div class="tema">
                 <p>Tema 2 — Instalación, Configuración y Documentación del Entorno de Desarrollo y el Entorno de Explotación</p>
+                <p><a href="doc/Tema2UbuntuServer.pdf">Ubuntu Server</a></p>
+                <p><a href="doc/Tema2Windows.pdf">Windows</a></p>
             </div>
             <div class="tema">
                 <p><a href="../ProyectoTema3/indexProyectoTema3.php">Tema 3 — Características del Lenguaje PHP</a></p>
