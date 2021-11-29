@@ -33,7 +33,7 @@ and open the template in the editor.
                 <p><a href="../ProyectoTema4/indexProyectoTema4.php">Tema 4 — Técnicas de Acceso a Datos en PHP</a></p>
             </div>
             <div class="tema">
-                <p>Tema 5 — Desarrollo de Aplicaciones Web Utilizando Código Embebido</p>
+                <p><a href="../214DWESProyectoTema5/indexProyectoTema5.php">Tema 5 — Desarrollo de Aplicaciones Web Utilizando Código Embebido</a></p>
             </div>
             <div class="tema">
                 <p>Tema 6 — Programación Orientada a Objetos en PHP</p>
