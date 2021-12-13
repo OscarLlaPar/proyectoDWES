@@ -14,42 +14,59 @@ and open the template in the editor.
         
         <div class="titulo">
             <h1>Desarrollo Web en Entorno Servidor</h1>
-            <h2>Óscar Llamas Parra</h2>
-            <div class="cuadro" id="arriba"></div>
+            <a href="../index.php"><div class="cuadro" id="arriba">&#60;</div></a>
         </div>
         <div class="cont">
-            <div class="tema">
-                <p><a href="doc/EjerciciosTema1.pdf" target="__blank">Tema 1 — Desarrollo Web en Entorno Servidor</a></p>
-            </div>
+            <a href="doc/EjerciciosTema1.pdf" target="__blank">
+                <div class="tema">
+                    <p>Tema 1 — Desarrollo Web en Entorno Servidor</p>
+                </div>
+            </a>
             <div class="tema">
                 <p>Tema 2 — Instalación, Configuración y Documentación del Entorno de Desarrollo y el Entorno de Explotación</p>
-                <p><a href="doc/Tema2UbuntuServer.pdf">Ubuntu Server</a></p>
-                <p><a href="doc/Tema2Windows.pdf">Windows</a></p>
+                <a href="doc/Tema2UbuntuServer.pdf" class="link"><p>Ubuntu Server</p></a>
+                <a href="doc/Tema2Windows.pdf" class="link"><p>Windows</p></a>
             </div>
-            <div class="tema">
-                <p><a href="../ProyectoTema3/indexProyectoTema3.php">Tema 3 — Características del Lenguaje PHP</a></p>
-            </div>
-            <div class="tema">
-                <p><a href="../ProyectoTema4/indexProyectoTema4.php">Tema 4 — Técnicas de Acceso a Datos en PHP</a></p>
-            </div>
-            <div class="tema">
-                <p><a href="../214DWESProyectoTema5/indexProyectoTema5.php">Tema 5 — Desarrollo de Aplicaciones Web Utilizando Código Embebido</a></p>
-            </div>
-            <div class="tema">
+            <a href="../ProyectoTema3/indexProyectoTema3.php">
+                <div class="tema">
+                    <p>Tema 3 — Características del Lenguaje PHP</p>
+                </div>
+            </a>
+            <a href="../ProyectoTema4/indexProyectoTema4.php">
+                <div class="tema">
+                    <p>Tema 4 — Técnicas de Acceso a Datos en PHP</p>
+                </div>
+            </a>
+            <a href="../ProyectoMtoDepartamentosTema4/indexMtoDepartamentosTema4.php">
+                <div class="app">
+                    APP: MantenimientoDepartamentos
+                </div>
+            </a>
+            <a href="../214DWESProyectoTema5/indexProyectoTema5.php">
+                <div class="tema">
+                    <p>Tema 5 — Desarrollo de Aplicaciones Web Utilizando Código Embebido</p>
+                </div>
+            </a>
+            <a href="../214DWESLoginLogoutTema5/indexLoginLogoutTema5.php">
+                <div class="app">
+                    APP: LoginLogout
+                </div>
+            </a>
+            <div class="tema nodisponible">
                 <p>Tema 6 — Programación Orientada a Objetos en PHP</p>
             </div>
-            <div class="tema">
+            <div class="tema nodisponible">
                 <p>Tema 7 — Programación de Servicios Web</p>
             </div>
-            <div class="tema">
+            <div class="tema nodisponible">
                 <p>Tema 8 — Desarrollo de Aplicaciones Web Híbridas</p>
             </div>
         </div>
     </body>
     <footer>
         <p>
-            Óscar Llamas Parra
-            <a href="https://github.com/OscarLlaPar/" target="__blank"><img src="webroot/img/github.png" alt="Github"></img></a>
+            <a href="https://daw214.ieslossauces.es/">Óscar Llamas Parra</a>
+            <a href="https://github.com/OscarLlaPar/proyectoDWES" target="__blank"><img src="webroot/img/github.png" alt="Github"></img></a>
         </p>
         <p>
             DAW 2
@@ -57,6 +74,5 @@ and open the template in the editor.
         <p>
             IES Los Sauces, Benavente 2021-2022
         </p>
-        <div class="cuadro" id="abajo"></div>
     </footer>
 </html>
