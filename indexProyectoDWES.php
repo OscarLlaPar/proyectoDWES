@@ -52,15 +52,11 @@ and open the template in the editor.
                     APP: LoginLogout
                 </div>
             </a>
-            <div class="tema nodisponible">
-                <p>Tema 6 — Programación Orientada a Objetos en PHP</p>
-            </div>
-            <div class="tema nodisponible">
-                <p>Tema 7 — Programación de Servicios Web</p>
-            </div>
-            <div class="tema nodisponible">
-                <p>Tema 8 — Desarrollo de Aplicaciones Web Híbridas</p>
-            </div>
+            <a href="../AplicacionLoginLogout/index.php">
+                <div class="tema">
+                    <p>APP: LoginLogout Multicapa POO</p>
+                </div>
+            </a>
         </div>
     </body>
     <footer>
