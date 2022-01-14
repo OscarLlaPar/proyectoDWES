@@ -47,23 +47,8 @@ p{
 .tema p a, .tema p{
     color:black;
 }
-a:nth-child(1) .tema{
-    background-color: #FAAE1A;
-}
-.tema:nth-child(2){
-    background-color: #485FFF;
-}
-a:nth-child(3) .tema{
-    background-color: #00C4FF;
-}
-a:nth-child(4) .tema{
-    background-color: #FA1D00;
-}
-a:nth-child(6) .tema{
-    background-color: #00DB55;
-}
-.tema p:nth-child(1){
-    flex-basis: 64%;
+.tema{
+    background-color: #31A4DE;
 }
 a .tema:hover{
     padding-left: 20px;
@@ -90,6 +75,7 @@ a:nth-child(5) .app{
 a:nth-child(7) .app{
     background-color: #71FA83;
 }
+
 .app{
     margin-left:30px;
     padding-left: 5px;
