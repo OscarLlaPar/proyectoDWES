@@ -12,6 +12,8 @@ Aplicación en la que se encuentran todo lo relativo al módulo DWES - Desarollo
 - Tema 6 - Programación Orientada a Objetos en PHP
 - Tema 7 - Programación de Servicios Web
 - Tema 8 - Desarrollo de Aplicaciones Web Híbridas
+- Aplicación - Login Logout Multicapa POO
+- Aplicación Final
 
 ### Software utilizado
 - Ubuntu Server 20.04.3
